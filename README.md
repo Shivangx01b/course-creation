@@ -37,4 +37,10 @@ ai agent to use deep research for course creation
 
      ```
   - Once the task is finished the output will be saved to .txt file with name <your course topic>.txt
+
+## Ways to improve the ai agent
+
+- Add self refection at each layer of title generation, just like what we have for summary
+- Once title are generated parallize the llm calls for each titles to save time
+  
      
